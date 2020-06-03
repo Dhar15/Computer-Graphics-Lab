@@ -17,6 +17,22 @@
 6. Paste glut.dll and glut32.dll in C:\Windows\SysWOW64
    Also, copy glut32.dll to C:\Windows\System32
    
+7. You have successfully installed Visual Studio and can start coding!
+
+## Starting a new project
+
+File -> New -> Project -> Console App -> Give a name to project -> Create
+
+## Running your first program
+
+After typing the program, simply -
+
+Build -> Build Solution
+
+If there are no errors,
+
+Debug -> Start Debugging
+   
  
    
  
