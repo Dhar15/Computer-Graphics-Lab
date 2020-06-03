@@ -1,5 +1,7 @@
 # Computer-Graphics-Lab
 
+This repository contains lab programs and additional practice programs for Computer Graphics Laboratory (17CSL68)
+
 ## How to install Visual Studio 2019 for Windows - A Guide
 
 1. Download and Install Visual Studio 2019 from here - https://visualstudio.microsoft.com/vs/
